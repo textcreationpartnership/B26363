@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Lying allowable with papists to deceive Protestants: in a letter / written by a minister of the Church of England,to satisfie a friend who was much stagger'd at the reading the speeches of the late traytors, who at their death, June 25. 1679. so confidently affirmed their innocency.</title>
+            <author>Minister of the Church of England.</author>
+         </titleStmt>
+         <extent>Approx. 14KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B26363</idno><idno type="EEBO-CITATION">99890663_201935</idno>
+  <idno type="VID">201935</idno>
+  <idno type="EEBO-PROQUEST">2248551156</idno>
+  
+            <idno type="OCLC"> 12579360</idno>
+            <idno type="STC">Wing L3562</idno>
+            <idno type="STC">Interim Tract Supplement Guide T.88*.[24]</idno>
+            <idno type="STC">Interim Tract Supplement Guide T.3*.[51]</idno>
+            <idno type="STC">ESTC R4237</idno>
+            <idno type="PROQUEST">ocm99890663</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99890663e"/>
+            <note>(EEBO-TCP ; phase 2, no. B26363)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 201935)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C30:1[23]; F2:2[51])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Lying allowable with papists to deceive Protestants: in a letter / written by a minister of the Church of England,to satisfie a friend who was much stagger'd at the reading the speeches of the late traytors, who at their death, June 25. 1679. so confidently affirmed their innocency.</title>
+                  <author>Minister of the Church of England.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1680]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Catholic Church --  Controversial literature --  Early works to 1800.</term>
+               <term type="topical_term">Popish Plot, 1678 --  Early works to 1800.</term>
+               <term type="topical_term">Anti-Catholicism --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:201935:1"/>
+            <head>LYING ALLOWABLE WITH PAPISTS TO DECEIVE PROTESTANTS: IN A LETTER written by a Minister of the Church of <hi>England,</hi> to satisfie a Friend who was much stagger'd at the reading the SPEECHES Of the late <hi>TRAYTORS,</hi> Who at their DEATH, <hi>June</hi> 25. 1679. so confidently af<g ref="char:EOLhyphen"/>firmed their INNOCENCY.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>THat any man, having the use of their Reason, and all the powers of their Soul vigorous and active, should be so hardned, as in the great and last hour of Death to out-face Truth, and with ama<g ref="char:EOLhyphen"/>zing Imprecations proclaim themselves Innocent of any Fact, which by sufficient Evidence and Circumstance hath been proved against them, is a thing so incredible to all sober Christians, that the Protestations and Asseverations of the late Priests in this kind (who suffer'd as so many Malefactors) have been ready to leave upon the minds of some men, as well as you (even <hi>Protestants</hi>) such impressions as these; that doubtless they spake Truth at Death, were wrongfully Condemned, died for that of which they were not Guilty; and consequently, that the Kings Evidence who swore against them, are highly perjured, and deeply guilty of their Innocent Blood: For who can imagine they should dare to go before the Great and Eternal Judge of all the VVorld with a Lye in their mouths? But if we consider the Principles and Practices of these men, this may seem no wonder at all, for what we call a Lye, they count none; or if it be so, yet tell us 'tis both lawful and necessary at some times to lye, and out-face the Truth, even with Oaths: VVe must believe that every of these men received Plenary Absolution for all their sins, from their Birth to that day
+<pb n="2" facs="tcp:201935:2"/>upon which they died; upon which Absolution they may affirm themselves as free from, and as Innocent of any Crime laid to their Charge, as the Child unborn, because whatever the Crime is, 'tis forgiven: And suppo<g ref="char:EOLhyphen"/>sing they did sin in their Declaration of their Innocency at the place of Exe<g ref="char:EOLhyphen"/>cution, which the former Absolution could not reach, yet they might safely do it, having a power to absolve each other just as they were going out of the VVorld, as 'tis believed they did when they laid their Heads together in the Carts; which Absolution sends them perfect Innocents to Heaven, in their Opinion. Moreover, if to rob, spoil, kill <hi>Protestants,</hi> burn their Ci<g ref="char:EOLhyphen"/>ties, <hi>&amp;c.</hi> if to depose Heretical Princes from their Crowns and Kingdoms, and absolve their Subjects from their Allegiances, (to which by Oaths they stand fast bound) if these be no sins (as in their account they are not) then they may declare themselves Innocent, though never so guilty in our esteem and judgment. Now that such Trayterous and bloody designs and under<g ref="char:EOLhyphen"/>takings are not only not sinful, but good and lawful, we will bring some of their own Party to justifie.—For they tell us, 'tis no sin for <hi>Romanists</hi> to take from those whom they count Hereticks all that they have, all they have being by Sentence of Law confiscated: This is concluded by a whole Council; <hi>Bona ipsorum (scil. Haeret.) ipso facto applicantur fisco. Concil. La<g ref="char:EOLhyphen"/>ter. sub</hi> Innoc. 2. And <hi>Sylvester</hi> saith, that all whoever may rob and spoil Hereticks, and if it cannot be otherwise accomplished, it may be done by force of Arms; his words are, <hi>Si aliter feri non potest, manu armata sunt eis omnia bona auferenda.</hi> Sylvest. <hi>n.</hi> 23. <hi>q.</hi> 3. <hi>c.</hi> 1. And that we may be sure this is lawful, one of their <hi>Popes</hi> (who is held Infallible) hath thus determi<g ref="char:EOLhyphen"/>ned, that all Prelates and Princes, even Kings and Emperours that are Here<g ref="char:EOLhyphen"/>ticks, should be, and should be understood to be deprived of all their Benefi<g ref="char:EOLhyphen"/>ces, States, Kingdoms, and Empires, without farther Declaration, and un<g ref="char:EOLhyphen"/>capable to be restored to them, even by the Apostolick See (old Hold-fast) and their Goods, States and Kingdoms shall be understood to be common, and to belong to those <hi>Catholicks</hi> who can get them: A Constitution of Pope <hi>Paul</hi> 4. declares this: And you may see more of this in <hi>Hist. Conc.</hi> of <hi>Tr. lib.</hi> 5. <hi>p.</hi> 409. and in <hi>Institut. Cathol. Tit.</hi> 45. <hi>Sect.</hi> 13: so that whatever Misdemeanours or Treasons they act or contrive against the King, or his un<g ref="char:EOLhyphen"/>doubted Rights, or against his Subjects, being convicted and condemned as Traytors, they may safely deny it, and proclaim themselves innocent; that is, not guilty of Treason (laid to their charge) because they cannot be guil<g ref="char:EOLhyphen"/>ty of any such thing against an Heretical King, or Prince, whose Crowns and. Kingdoms are not his own, but theirs, if they can catch them: Besides, if these men may dally with Oaths, swear, and yet not hold themselves bound by any Oath, if the breach of it may make for their advantage, why should we wonder to hear them deny the Truth, where the confession of it might do them and their Cause some injury: As to that of Oaths, let us hear what their VVriters say, <hi>Licet jurare cum aequivocatione, D: Tho: Scotus, Paladanus, Gabriel, Sylvester, Soto,</hi> and multitudes more of their VVriters justifie this: But more fully, let us hear what another saith to this point; <hi>Qui alio sensu jurat quam alter intelligat, non peccat, modo justam babet cau<g ref="char:EOLhyphen"/>sam ita jurandi—justa autem causa utendi his verbis (amphibologicis) est ne<g ref="char:EOLhyphen"/>cessitas aut utilitatis corporis, aut honoris, aut verum familiarium—Ex quo se<g ref="char:EOLhyphen"/>quitur, non esse illicitum uti verbis amphibologicis, addendo restrictionem ali<g ref="char:EOLhyphen"/>quam in mente retentam, quoties aliquid incommodi, vel injuriae nobis impendet
+<pb n="3" facs="tcp:201935:2"/>loquendo ad mentem in <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>rrogantis, adest enim justa causa ita loquendi, Bonacin: Tom:</hi> 2: <hi>disp:</hi> 4: <hi>quest:</hi> 1: <hi>pun<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t:</hi> 12: <hi>n:</hi> 2, 3, 4: Now should <hi>Gavern, White<g ref="char:EOLhyphen"/>bread,</hi> and the rest have confessed there was a Plot going on against his Ma<g ref="char:EOLhyphen"/>jesties Life and Government, and that they were guilty Actors in it, this would have done great damage to their Party and Religion amongst us; and seeing they may obviate that evil, and make the credulous VVorld be<g ref="char:EOLhyphen"/>lieve they are Innocent of all such Principles and Practices, by a single Lye, why should we think they should stick at that, when they may swallow Oaths, and swear what they please for their Commodity, and to avoid in<g ref="char:EOLhyphen"/>jury, and yet be justified as Innocent Persons by their Heads and Guides: And 'tis as much to be admired, that so knowing a Jesuit as <hi>Gavern</hi> was, should affirm the <hi>Papists</hi> allowed not the deposing of Kings, Absolution from Oaths, <hi>&amp;c.</hi> as that he was Innocent of the Fact or Crime for which he died: For whether he spake truth in the latter, I am not able to say; but that the former is false, every one that is at all read in their own Schoolmen and Do<g ref="char:EOLhyphen"/>ctors can testifie; and if he made no Conscience to lye in the one (as we are sure he doth) I can see no reason to think he did in the other, especially since we are told that <hi>mendacium si alium non habet maculam quam falsitatis, non est mortale,</hi> (<hi>Patet,</hi> saith the Author) <hi>quia non est contra Religionem (Ro<g ref="char:EOLhyphen"/>manam) Soto: l:</hi> 5: <hi>q:</hi> 7: <hi>art:</hi> 4: <hi>p:</hi> 168: And to vanquish all wonder of these mens justifying themselves, and to shew that a Lye will never choak a Po<g ref="char:EOLhyphen"/>pish Priest, it is a standing Precept among all their Doctors, that a Priest be<g ref="char:EOLhyphen"/>ing asked by a Judge, whether he knows such a thing by Confession? he may answer no, though he doth know it, and the revealing of it be necessary to save a Prince or a Nation from ruine: Take it in their own words;—<hi>Certum est obligationem hujus praecepti tantam esse, ut in nulla Casu, &amp; propter nullam finem, etiam pro tuenda tota repub. ab ingenti malo temporali aut spi<g ref="char:EOLhyphen"/>rituali, violare illud liceat: Sic ait Durand: Scotus, Palud. Major: Capriol: Gabriel, Alensis, Adrian, Cajetan, Lodsman in Suar: Tom:</hi> 34: <hi>disp:</hi> 33: <hi>Sect:</hi> 1: <hi>n:</hi> 2: <hi>Et sic doce<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t omnes Theologi contra unum Altisiod:</hi> Here is not only a permission, but a strong Precept and Injunction for Priests to deny the Truth, to elude Authority by Equivocation, blaspheming God, lying and swearing in open Court, though it be to the temporal or spiritual ruine of the whole Republick, and they shall be justified in it by all their rare Saints, and learned Doctors; and if in open Court, why not at place of Executi<g ref="char:EOLhyphen"/>on? where a free and ingenuous Confession might have caused the appre<g ref="char:EOLhyphen"/>hension of many more Priests and Confederates, and utterly obstructed their farther Progress in altering the Government of the Kingdom, and have gi<g ref="char:EOLhyphen"/>ven such a Blow to Popery, as it should never have been able to have held up its Head again in this Nation, or so weakned it, that all future endea<g ref="char:EOLhyphen"/>vours to bring it in, must have proved abortive. And is this to be expect<g ref="char:EOLhyphen"/>ed from them at any time in Life or Death, who come hither with full Commissions, and fixed Resolutions, to promote it, and hazard their lives to accomplish their ends? No, they must rather stifle the Truth, and like <hi>Romes</hi> Champions, out-brave Death and Judgment, and sacrifice Soul and Body to the Churches Interest, than do so great service for Hereticks, as to prevent their ruine, either Temporal or Spiritual, by a cowardly confession of Truth at last. As a sincere Christian would (and ought to) die rather than betray the Truth and Church of Christ into the Enemies hands; so these Heroes of <hi>Rome</hi> will rather suffer a thousand Deaths, than disclose the
+<pb n="4" facs="tcp:201935:3"/>Popes designs against such Dogs, Wolves, Serpents, as we (Hereticks) are glorying as much in their sufferings, as any true Martyr of Christ can; and for this their Fidelity and Magnanimity in the Cause, even to Death, shall be Sainted and Canonized by their Holy Father: In my Opinion it would be much more strange, to hear any Priest or <hi>Papist</hi> confess himself guilty of any evil against <hi>Protestants,</hi> than to deny it; since they do not look upon us equally worthy to live with bruit Beasts, most worthy of the greatest de<g ref="char:EOLhyphen"/>struction, and a laudable work in them to hasten it upon us: Could we see one of them really converted to <hi>Protestantism,</hi> and the true Religion, we might expect a discovery at death of the Popish designs: But so long as they declare they die <hi>Romanists,</hi> 'tis mighty folly once to dream of any Confession from them in favour of us, or by which our Church may reap the least benefit or safety; for this were in one moment to tumble down, what for many years they have been rearing up, and had rather than their lives should be carried on to perfection; <hi>viz.</hi> to bring this Kingdom once more to the Pope's Lure, that once more that monstrous Beast of <hi>Rome</hi> might ride us: And do you think, now he is gotten so high, that one lift more had thrown him into the Saddle, they will, by a Confession of his and their own Villany, pull the good old man back? no, They honour him and hate us too much to do any such thing: Therefore however those men behaved themselves, or whatever they affirmed or denyed at death, let us not be so over-credulous as to think their Brethren (those Wolves that yet remain amongst us) are a Company of innocent Lambs, and have no designs against us; who doubtless Glory in the confidence and faithfulness of those that are gone before, and are carrying on a most cruel and horrid de<g ref="char:EOLhyphen"/>sign and Plot against us, against our Gracious King, (whom God preserve) his Government both in Church and State, and against the lives of his Protestant Subjects: And yet should any of them hereafter be brought to the like condign punishment for their Murderous and Traiterous Projects and Proceedings (as we hope they will if they go on) you shall find they will declare themselves as innocent and guiltless as any of the former; for such is their Zeal for the Cause, and confidence in his Holiness,: that they had ra<g ref="char:EOLhyphen"/>ther dye with the Pope's Pardon, than live with his Majesty's.</p>
+            <q xml:lang="lat">
+               <p>Mendacium si non habet aliam maculam quam falsitatis, non est mor<g ref="char:EOLhyphen"/>tale peccatum.</p>
+               <bibl>
+                  <hi>Soto.</hi>
+               </bibl>
+            </q>
+            <q xml:lang="lat">
+               <p>Potest quis dum moritur, habere voluntatem permanendi in p<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ccato veni<g ref="char:EOLhyphen"/>ali,</p>
+               <bibl>
+                  <hi>Bellarm.</hi> de purgat. l. <hi>1.</hi> c. <hi>7.</hi> p. <hi>1359.</hi>
+               </bibl>
+            </q>
+            <q>
+               <p>Potest quis mori in complacentia peccati,</p>
+               <bibl>ib. 1370. &amp; salvari. Sylvest. sum. v. contritio. n. 3.</bibl>
+            </q>
+            <p>With them a simple Lye is a venial sin, and they say a man may re<g ref="char:EOLhyphen"/>solve to continue in venial sin till death, and yet be saved.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
